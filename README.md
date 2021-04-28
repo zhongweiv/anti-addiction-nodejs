@@ -1,7 +1,7 @@
 # anti-addiction-nodejs
 ---
 ## 项目介绍
-    网络游戏防沉迷认证系统-接口测试Anit-addiction
+    网络游戏防沉迷认证系统 接口测试Anit-addiction Node.js版本
 
 ### 项目说明
     1.  基于node.js 10.17.0 LTS 开发
